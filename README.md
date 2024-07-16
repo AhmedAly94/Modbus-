@@ -1,0 +1,1 @@
+The code runs the server on localhost (IP Address: 127.0.0.1) with port 502. Other common ports over TCP/IP are ftp (port 21), ssh (port 22), http (port 80), and https (port 443). Run the Modbus server before running the client because the client needs a Modbus server to store or retrieve values.
